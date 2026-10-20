@@ -1,59 +1,33 @@
 <div align="center">
-<img width="75%" height = "250px" src="https://allcode.com/wp-content/uploads/2021/02/Group-169-3.png" alt="cover" />
+  <!-- Dynamic Modern Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20,29&height=220&section=header&text=Hermann%20Buma%20Afeseh&fontSize=40&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Web%20Architect%20%7C%20Smart%20Systems&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/afeseh-buma">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/hermannafesehbuma">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=hermannafesehbuma.hermannafesehbuma&left_color=gray&right_color=blue" alt="Profile Visitors" />
+  </p>
 </div>
 
-<h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-  
+<br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hermannafesehbuma.hermannafesehbuma)
-  
+### 🚀 About Me
 
-</p>
-<div size='20px'> Hi! I'm Hermann Buma Afeseh. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
-
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-
-
-- 🔭 I’m currently working on implementing Projects
-
-- 🌱 I’m currently learning AWS Cloud concepts
-
-- 👯 I’m looking to collaborate on Anything Cloud computing 
-
-- 💬 Talk to me about AWS,Cloud computing
-
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/https://github.com/Sensini7?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<!-- <a href = 'https://linktr.ee/sensinipeleke'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> -->
-<a href = 'https://www.linkedin.com/in/afeseh-buma/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<!-- <a href = 'https://twitter.com/peleke_sensini'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> -->
-<a href = 'https://github.com/hermannafesehbuma'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-
-## :chart: Github Stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermannafesehbuma&show_icons=true&theme=transparent)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
+```yaml
+Developer Profile:
+  Name: Hermann Buma Afeseh
+  Role: CEO & Lead Software Engineer @ Richkid Ltd
+  Focus: Mobile & Web Applications, Backend Infrastructure, Smart Systems
+  Core Stack: React Native, Expo, Next.js, Node.js, Supabase, PostgreSQL, PostGIS
+  Systems & Robotics: Rust, Python, ROS 2 (Jazzy), Embedded Systems
+  Current Projects:
+    - My Padi (On-demand local service marketplace)
+    - Steppa (Structured fitness & workout tracking platform)
+    - GP Cardify (Mobile gift card trading platform)
